@@ -16,7 +16,7 @@ Untuk menjalankan program diharuskan untuk menginstall module/ library yang ada 
 ```bash
   pip install -r requirements.txt
 ```
-Setelah berhasil diinstall untuk menjalankan program.
+Setelah berhasil diinstall, untuk menjalankan program.
 #### GetTweetApp.py
 ```bash
   python GetTweetApp.py
